@@ -1,0 +1,8 @@
+gradio
+yt-dlp
+torch
+transformers
+torchaudio
+openai-whisper
+ffmpeg-python
+requests
